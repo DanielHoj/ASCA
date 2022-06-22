@@ -103,8 +103,8 @@ List of boolean arrays to index dummy variables.
 List of indexed dummy variables.
     
 **factor_names**: *list*
-    List of factor names. If none are provided, a list with "Factor i" is 
-    created, where i is the factor number
+
+List of factor names. If none are provided, a list with "Factor i" is created, where i is the factor number
 
 **factors**: *int*
 
